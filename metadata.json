@@ -1,0 +1,6 @@
+{
+  "name": "FreshRoots Supermarket",
+  "description": "Full-featured modern supermarket application with grocery catalog, weekly circular deals, aisle navigator, recipe meal bundles, smart shopping list, and checkout system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
